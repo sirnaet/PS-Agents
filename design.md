@@ -192,6 +192,5 @@ Total Distance: 340 km
 * **Optimal Route:** **Nairobi -> Naivasha -> Nakuru -> Kericho -> Kisumu**
 * **Total Path Cost:** **340 km**
 
-![Group Discussion Photo](<img width="1454" height="953" alt="Screenshot_2026-10-16_12-49-05" src="https://github.com/user-attachments/assets/5706c925-7ead-44c4-84c8-47ad97b3262a" />
-)
+![Group Discussion Photo](file:///home/sirnaet/Pictures/Screenshots/Screenshot_2026-10-16_12-49-05.png)
 
